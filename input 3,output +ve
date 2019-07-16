@@ -1,5 +1,5 @@
 a=float(input('enter the value:'))
 if a==3:
-print('positive')
+   print('positive')
 else:
-print('negative')
+   print('negative')
